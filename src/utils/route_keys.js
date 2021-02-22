@@ -1,0 +1,6 @@
+export const ROUTE_KEYS = {
+  DASHBOARD: 'DASHBOARD',
+  LIST: 'LIST',
+  INPUT: 'INPUT',
+  SEARCH: 'SEARCH',
+};
